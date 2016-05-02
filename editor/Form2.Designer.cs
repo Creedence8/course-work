@@ -26,6 +26,7 @@
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
+		// <suqa>
         private void InitializeComponent()
         {
             this.groupBox2 = new System.Windows.Forms.GroupBox();
